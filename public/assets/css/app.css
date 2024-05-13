@@ -1,0 +1,11 @@
+/* Map on the dashboard */
+
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+.mapModal {
+    height: 400px;
+    width: 100%;
+}
